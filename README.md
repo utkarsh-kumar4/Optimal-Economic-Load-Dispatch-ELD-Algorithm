@@ -1,17 +1,29 @@
-# Optimal Economic Load Dispatch (ELD) Algorithm ⚡️
-<h2> What’s This About? 🤔 </h2>
+<h1>Optimal Economic Load Dispatch (ELD) Algorithm ⚡️</h1>
 
-Economic Load Dispatch (ELD) is all about figuring out how to share power generation among multiple plants so that we meet electricity demand at the lowest cost, while making sure each generator stays within its limits. It’s a core problem in power systems that impacts efficiency and reliability.
+<p>
+Economic Load Dispatch (ELD) focuses on distributing power generation across multiple plants 
+to meet electricity demand at the lowest cost while respecting operational limits. 
+It's a critical problem in power systems, ensuring both efficiency and reliability.
+</p>
 
-<h2> The Idea Behind This Project 🧠 </h2>
+<h2>The Idea Behind This Project 🧠</h2>
+<p>
+This MATLAB program automates the tedious process of manual ELD calculations by using an 
+iterative optimization algorithm. It dynamically adjusts power outputs step-by-step to 
+achieve optimal results, always respecting generator constraints. The program is scalable 
+and robust, capable of handling small setups and large, complex systems seamlessly.
+</p>
 
-I built this MATLAB program to take the pain out of manual calculations by automating the process of distributing load optimally across generators. It uses an iterative approach that adjusts power outputs step-by-step, making sure constraints like minimum and maximum power limits are always respected. Plus, it’s flexible enough to handle any number of generators — whether it’s a small setup or something bigger.
+<h2>Why This Matters 💪</h2>
+<ul>
+<li>Reduces human errors by automating precise, optimal power distribution.</li>
+<li>Handles models from 3 to 10+ generators effectively, maintaining high accuracy and scalability.</li>
+<li>Adapts reliably to constraint violations, ensuring feasible and realistic solutions.</li>
+</ul>
 
-<h2> Why This Matters 💪 </h2>
-	•	It cuts down on errors by automating calculations that are usually tedious and error-prone when done by hand. <br/>
-	•	The program scales smoothly — tested from 3 up to more than 10 generators — without losing accuracy. <br/>
-	•	It smartly handles constraint violations, so the solutions are always realistic and practical. <br/>
-
-<h2> What’s Next? 🚀 </h2>
-
-I’m planning to add real-world factors like power losses & penalty factors, which will make the model even more practical. Down the line, it could also adapt to changing loads or renewable energy sources, making it ready for modern power grids.
+<h2>What’s Next? 🚀</h2>
+<p>
+Future enhancements will incorporate real-world complexities like transmission losses and penalty factors. 
+With these improvements, the algorithm can adapt to dynamic loads and renewable energy integration, 
+making it a versatile tool for modern power grids.
+</p>
