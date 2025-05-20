@@ -9,9 +9,9 @@ Economic Load Dispatch (ELD) is all about figuring out how to share power genera
 I built this MATLAB program to take the pain out of manual calculations by automating the process of distributing load optimally across generators. It uses an iterative approach that adjusts power outputs step-by-step, making sure constraints like minimum and maximum power limits are always respected. Plus, it’s flexible enough to handle any number of generators — whether it’s a small setup or something bigger.
 
 <h2> Why This Matters 💪 </h2>
-	•	It cuts down on errors by automating calculations that are usually tedious and error-prone when done by hand.
-	•	The program scales smoothly — tested from 3 up to more than 10 generators — without losing accuracy.
-	•	It smartly handles constraint violations, so the solutions are always realistic and practical.
+	•	It cuts down on errors by automating calculations that are usually tedious and error-prone when done by hand. <br/>
+	•	The program scales smoothly — tested from 3 up to more than 10 generators — without losing accuracy. <br/>
+	•	It smartly handles constraint violations, so the solutions are always realistic and practical. <br/>
 
 <h2> What’s Next? 🚀 </h2>
 
