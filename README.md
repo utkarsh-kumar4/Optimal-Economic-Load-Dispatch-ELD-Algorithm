@@ -1,5 +1,4 @@
 # Optimal Economic Load Dispatch (ELD) Algorithm ⚡️
-
 <h2> What’s This About? 🤔 </h2>
 
 Economic Load Dispatch (ELD) is all about figuring out how to share power generation among multiple plants so that we meet electricity demand at the lowest cost, while making sure each generator stays within its limits. It’s a core problem in power systems that impacts efficiency and reliability.
