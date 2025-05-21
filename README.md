@@ -27,3 +27,6 @@ Future enhancements will incorporate real-world complexities like transmission l
 With these improvements, the algorithm can adapt to dynamic loads and renewable energy integration, 
 making it a versatile tool for modern power grids.
 </p>
+
+## Author 👤
+[Utkarsh Kumar](https://github.com/utkarsh-kumar4) 👨🏻‍💻🎓
