@@ -1,4 +1,4 @@
-<h1>Optimal Economic Load Dispatch (ELD) Algorithm ⚡️</h1>
+<h1>Optimal Economic Load Dispatch (ELD) Iterative Algorithm ⚡️</h1>
 
 <p>
 Economic Load Dispatch (ELD) focuses on distributing power generation across multiple plants 
