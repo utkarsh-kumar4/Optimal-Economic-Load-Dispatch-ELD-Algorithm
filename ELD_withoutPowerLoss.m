@@ -19,7 +19,7 @@ function [P_optimal, lambda_value, feasibility, total_cost] = ELD_withoutPowerLo
     generators = length(a);                  % given number of generators
     free_generators = true(generators, 1);   % generators whose power can be adjusted during the iteration
     P_optimal = zeros(generators, 1);        % generators who have achieved their optimal operating power
-    iteration_limit = 10;                    % maximum number of iterations to avoid infinite loop
+    iteration_limit = 100;                    % maximum number of iterations to avoid infinite loop
     iteration_index = 0;
     feasibility = true;
 
