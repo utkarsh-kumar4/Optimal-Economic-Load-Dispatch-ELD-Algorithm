@@ -97,7 +97,7 @@ function [P_optimal, lambda_value, feasibility, total_cost] = ELD_withoutPowerLo
     total_cost = sum(a .* P_optimal.^2 + b .* P_optimal + c);
 end
 
-% Test the function with sample data
+% Testing the function with sample data
 a = [0.02; 0.015; 0.025; 0.01];        % Quadratic cost coefficients
 b = [20; 25; 18; 30];                  % Linear cost coefficients
 c = [100; 120; 80; 150];                  % Constant cost coefficients
